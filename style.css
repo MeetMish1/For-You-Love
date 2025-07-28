@@ -46,7 +46,7 @@ img {
     transition: 4s;
 }
 
-.LoveCard:hover {
+.birthdayCard:hover {
     transform: perspective(2500px) rotate(5deg);
     box-shadow: inset 100px 20px 100px rgba(0, 0, 0, .15), 0 10px 100px rgba(0, 0, 0, 0.3);
 }
